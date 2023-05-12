@@ -78,7 +78,7 @@
      background-color: transparent; 
      border-radius: 8px; 
      color: #dddada; 
-     width: 22rem; 
+     width: 21x9rem; 
      padding: 10px; 
   }
   .espacamento-1::placeholder, .espacamento::placeholder  {
@@ -108,7 +108,7 @@
     background-color: transparent; 
     border-radius: 8px; 
     color: #dddada; 
-    width: 100%; 
+    width: 150%; 
     padding: 10px; 
   
   }
@@ -126,7 +126,7 @@
     width: 100%;
   }
   .formulario .input-box .input, textarea{
-    width: 100%;
+    width: 150%;
     padding: 10px;
     margin: 10px 0;
     background-color: transparent;
@@ -248,50 +248,15 @@
     max-width: 30rem!important;
   }
   .espacamento{
-    width: 24rem!important;
+    width: 22rem!important;
   }
-  #selecao-assunto{
-    width: 30rem;
-  }
-  .btn-formulario{
-    width: 25rem;
-  }
+ 
+ 
   }
   
   
-  @media (max-width: 330px) {
-    .input-box {
-        max-width: 25rem!important;
-     }
-     #selecao-assunto{
-        width: 25rem;
-     }
-     .fon{
-        font-size: 25px!important;
-     }
-     .pad{
-        font-size: 15px;
-     }
-  }
   
-  @media (max-width: 280px) {
-    .input-box {
-        max-width: 20rem!important;
-     }
-     #selecao-assunto{
-        width: 20rem;
-     }
-     .fon{
-        font-size: 20px!important;
-     }
-     .pad{
-        font-size: 14px;
-     }
-    .btn-formulario{
-        width: 10rem;
-    }
-  }
-  
+ 
   
   
   
