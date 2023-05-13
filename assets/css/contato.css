@@ -260,36 +260,38 @@
   
   
  
-
-    @media (max-width: 410px) {
+  @media (max-width: 450px) {
   
-      .input-box{
-        margin-left: 3rem;
-      }
-    
-    .espacamento{
-      width: 19rem!important;
-    }
-    
-    
-    .selecao select{
-      width: 82.5%;
+    .input-box{
       margin-left: 3rem;
     }
-    
-    .espa{
-      width: 124%;
+  
+  .espacamento{
+    width: 18rem!important;
+  }
+  .espacamento-1{
+    width: 18rem;
+  }
+  
+  .selecao select{
+    width: 82.5%;
+    margin-left: 3rem;
+  }
+  
+  .espa{
+    width: 124%!important;
+  }
+  
+  .formulario .input-box .input, textarea {
+  width: 123%;
+  }
+  .btn-formulario {
+    margin-left: 10rem;
+    width: 50%;
+  }
+  
     }
-    
-    .formulario .input-box .input, textarea {
-    width: 123%;
-    }
-    .btn-formulario {
-      margin-left: 10rem;
-      width: 50%;
-    }
-    
-      }
+
 
   
   

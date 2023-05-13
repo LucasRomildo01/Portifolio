@@ -40,10 +40,10 @@ section h3{
 
 
 
-@media (max-width: 355px) {
+@media (max-width: 440px) {
     .card{
       
-        margin-left: -8rem;
+        margin-left: -5rem;
         width: 300px!important;
     }
 }
