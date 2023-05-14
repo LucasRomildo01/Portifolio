@@ -15,34 +15,29 @@ main{
  }
 }
 
+
+
 @media (max-width: 501px) {
 section h3{
     font-size: 1.8rem!important;
 }
 .card{
-
     margin-left: -2rem;
-  
+}
 }
 
-}
 
 
 @media (max-width: 410px) {
-    .card{
-      
+    .card{  
         margin-left: -7rem;
     }
 }
 
 
 
-
-
-
 @media (max-width: 440px) {
-    .card{
-      
+    .card{      
         margin-left: -5rem;
         width: 300px!important;
     }
