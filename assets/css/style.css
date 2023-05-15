@@ -1793,6 +1793,9 @@ footer .social-links li:nth-child(4) svg path:nth-child(2) {
   #home p {
     font-size: 1.6rem;
   }
+  .rotate-img{
+    width: 215px!important;
+  }
   @keyframes typing {
     from {
       width: 0;
@@ -1853,6 +1856,9 @@ footer .social-links li:nth-child(4) svg path:nth-child(2) {
 }
 .social-links {
  justify-content: center!important;
+}
+.rotate-img{
+  width: 183px!important;
 }
 }
 
