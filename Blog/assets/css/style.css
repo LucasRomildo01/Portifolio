@@ -649,7 +649,7 @@ margin-left: 1rem!important;
     margin-left: 25rem;
   }
   .footer .btn-icon{
-    margin-top: 36rem;
+    margin-top: 20rem;
   }
 
 
@@ -678,7 +678,7 @@ margin-left: 3rem!important;
     margin-left: 15rem;
   }
   .footer .btn-icon{
-    margin-top: 50rem;
+    margin-top: 32rem;
   }
   .footer-top .section-title{
     font-size: 5rem!important;
@@ -770,6 +770,9 @@ margin-left: 3rem!important;
   .hero .wrapper .strong{
     left: 17%;
   }
+  .footer .btn-icon{
+    margin-top: 19rem;
+  }
 }
 @media (max-width: 395px) {
   #home h1{
@@ -792,7 +795,7 @@ margin-left: 3rem!important;
     font-size: 1.8rem!important;
   }
   .footer .btn-icon {
-    margin-top: 44rem;
+    margin-top: 18rem;
   }
 }
 
