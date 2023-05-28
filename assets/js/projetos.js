@@ -47,7 +47,7 @@ function projetos(section) {
       </div>
     </div>
    <p></p>
-   <p> Desafio com 36 projetos diferentes.</p>
+   <p> Desafio com 40 projetos diferentes.</p>
     <p>HTML - CSS - JS</p>
   </div>
 

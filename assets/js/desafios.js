@@ -3274,7 +3274,7 @@ function desafios(section) {
   
 
   <div class="card">
-    <h3>Desafio 36</h3>
+    <h3>Desafio 37</h3>
     <div class="img-wrapper">
       <img src="./assets/images/52.gif" alt="Imagem do projeto." />
       <div class="buttons">
@@ -3389,7 +3389,7 @@ function desafios(section) {
   
 
   <div class="card">
-    <h3>Desafio 36</h3>
+    <h3>Desafio 38</h3>
     <div class="img-wrapper">
       <img src="./assets/images/53.gif" alt="Imagem do projeto." />
       <div class="buttons">
@@ -3504,7 +3504,7 @@ function desafios(section) {
   
 
   <div class="card">
-    <h3>Desafio 36</h3>
+    <h3>Desafio 39</h3>
     <div class="img-wrapper">
       <img src="./assets/images/61.gif" alt="Imagem do projeto." />
       <div class="buttons">
@@ -3606,7 +3606,7 @@ function desafios(section) {
   
 
   <div class="card">
-    <h3>Desafio 36</h3>
+    <h3>Desafio 40</h3>
     <div class="img-wrapper">
       <img src="./assets/images/62.gif" alt="Imagem do projeto." />
       <div class="buttons">
